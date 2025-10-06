@@ -1,0 +1,4 @@
+Cloud Networking Starter (Q2)
+- VPC, subnets, VPN: See AWS/GCP docs for setup
+- Example: Create VPC, add subnets, configure VPN gateway
+- Use Terraform or cloud console for hands-on
